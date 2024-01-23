@@ -15,6 +15,6 @@ This runs the whole thing, the full version of [imdb_postgres_elt](https://githu
 
 ## In the end
 
-You will end up with a database with new tables that unnest arrays and a lot more granularity
+You will end up with a database with new tables that unnest arrays and a schema with a lot more granularity
 
 ## Enjoy, and let me know what you think!
