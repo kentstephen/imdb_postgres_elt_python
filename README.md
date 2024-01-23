@@ -7,7 +7,7 @@ This is the result schema. Taking 7 unrelated tables and adding relationships an
 
 ## This project a continuation of [imdb_postgres_elt](https://github.com/kentstephen/imdb_postgres_elt)
 
-This Python program runs the complete ELT of that repo, but a little easier. I'll refer you to the link above for the description of the SQL transformations 
+The Python program runs the complete ELT of that repo, but a little easier. I'll refer you to the link above for the description of the SQL transformations 
 
 ## First you need to enter your credentials in [pg_config.py](https://github.com/kentstephen/imdb_postgres_elt_python/blob/main/pg_config.py)
 
