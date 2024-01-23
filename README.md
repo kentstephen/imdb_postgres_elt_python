@@ -1,7 +1,7 @@
+![erd](https://github.com/kentstephen/imdb_postgres_elt_python/blob/main/diagrams/imdb_schema.png)
+
 # Get IMDB data into Postgres with SQL
 ## Using a Python Program
-
-![erd](https://github.com/kentstephen/imdb_postgres_elt_python/blob/main/diagrams/imdb_schema.png)
 
 This is a continuation of [imdb_postgres_elt](https://github.com/kentstephen/imdb_postgres_elt)
 
