@@ -7,7 +7,7 @@ This Python program runs the complete ELT of that repo, but a little easier. I'l
 
 ## First you need to enter your credentials in [pg_config.py](https://github.com/kentstephen/imdb_postgres_elt_python/blob/main/pg_config.py)
 
-This will allow the .py and SQL therein to interact with your Postgres server
+This will allow the Python files therein to interact with your Postgres server
 
 ## Next go to [app.py](https://github.com/kentstephen/imdb_postgres_elt_python/blob/main/app.py)
 
