@@ -1,9 +1,13 @@
 # Get IMDB data into Postgres with SQL
 ## Using a Python Program
 
-This is a continuation of [imdb_postgres_elt](https://github.com/kentstephen/imdb_postgres_elt)
+![erd](https://github.com/kentstephen/imdb_postgres_elt_python/blob/main/diagrams/imdb_schema.png)
 
-This Python program runs the complete ELT of that repo, but a little easier. I'll refer you to the link above for the description of the SQL transformations 
+This is the result schema. Taking 7 unrelated tables and adding relationships and more tables for ease of use
+
+## This project a continuation of [imdb_postgres_elt](https://github.com/kentstephen/imdb_postgres_elt)
+
+The Python program runs the complete ELT of that repo, but a little easier. I'll refer you to the link above for the description of the SQL transformations 
 
 ## First you need to enter your credentials in [pg_config.py](https://github.com/kentstephen/imdb_postgres_elt_python/blob/main/pg_config.py)
 
